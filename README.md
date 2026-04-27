@@ -71,8 +71,6 @@ I’m a Full Stack Developer focused on building scalable, real-world applicatio
 
 ---
 
-## 📫 Connect With Me
-
 ## 🌐 Connect With Me
 
 <p align="center">
