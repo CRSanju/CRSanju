@@ -1,5 +1,95 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Building **Planora** (React Task Manager) and **Carvio** (Django-based food ordering platform)<br><br>🤝 I’m looking to collaborate on  <br>Full-stack projects using **React, Spring Boot, or Django**<br><br>🧠 I’m looking for help with  <br>**System Design** and building scalable applications<br><br>🌱 I’m currently learning  <br>**DSA, System Design, and advanced backend development**<br><br>💬 Ask me about  <br>**Java Spring Boot, React, REST APIs, JWT Authentication**<br><br>⚡ Fun fact  <br>I enjoy turning real-world ideas into working applications 🚀
+<h1 align="center">Hi 👋, I'm Sanju</h1>
+<h3 align="center">Full Stack Developer | Java • React • Django</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Spring+Boot+%7C+React+%7C+Django;Building+Real+World+Applications;Focused+on+Scalable+Systems" />
+</p>
+
+---
+
+## 🌿 About Me
+
+I’m a Full Stack Developer focused on building scalable, real-world applications using Java Spring Boot, React, and Django. I enjoy turning ideas into functional products and continuously improving my skills in data structures, system design, and backend architecture. Currently, I’m working on Planora, a modern task manager, and Carvio, a food ordering platform inspired by real-world systems, while aiming to write clean, efficient, and maintainable code.
+
+---
+
+* 🔭 Currently working on → **Planora** (React Task Manager) & **Carvio** (Django Food Ordering Platform)
+* 🤝 Open to collaborate on → **Full Stack Projects (React / Spring Boot / Django)**
+* 🧠 Exploring → **System Design & Scalable Backend Architecture**
+* 🌱 Continuously improving → **Problem Solving & Clean Code Practices**
+* 💬 Ask me about → **Java Spring Boot, React, REST APIs, JWT Authentication**
+* ⚡ Fun fact → *I focus more on building real applications than just consuming tutorials* 🚀
+
+---
+
+## 🚀 Projects
+
+### ✦ Planora (Task Manager – React)
+
+* Modern task management application focused on productivity
+* Clean UI/UX with structured workflow management
+* Built using React with component-based architecture
+* Focus on creating a smooth and user-friendly experience
+
+---
+
+### ✦ Carvio (Food Ordering Platform – Django)
+
+* Backend-driven application inspired by Swiggy/Zomato
+* Designed for scalability and structured API development
+* Built using Django with focus on clean architecture
+* Handles core functionalities like user flow and data management
+
+---
+
+### ✦ Sales Savvy (E-commerce Backend – Spring Boot)
+
+* RESTful backend application built using Spring Boot
+* Implemented JWT-based authentication and authorization
+* CRUD operations for product management
+* Designed with layered architecture for scalability
+
+---
+
+## 📈 Current Focus
+
+* Strengthening **Data Structures & Algorithms**
+* Learning **System Design fundamentals**
+* Building **production-level full-stack applications**
+* Improving **backend scalability & architecture design**
+
+---
+
+## 🎯 Goals
+
+* Become a strong **Full Stack Developer**
+* Build impactful, scalable real-world applications
+* Continuously improve problem-solving and system design skills
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CRSanju&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CRSanju&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/CRSanju">
+    <img src="https://img.shields.io/badge/GitHub-CRSanju-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐️ From <b>CRSanju</b>
+</p>
 
 
 ## 🌐 Socials:
