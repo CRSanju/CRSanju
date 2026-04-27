@@ -71,32 +71,25 @@ I’m a Full Stack Developer focused on building scalable, real-world applicatio
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CRSanju&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CRSanju&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/CRSanju">
-    <img src="https://img.shields.io/badge/GitHub-CRSanju-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-CRSanju-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/rsanju._">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:rsanju.3312@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   ⭐️ From <b>CRSanju</b>
 </p>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rsanju._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rsanju.3312@gmail.com) 
 
 
 # 📊 GitHub Stats:
@@ -104,4 +97,3 @@ I’m a Full Stack Developer focused on building scalable, real-world applicatio
 ![](https://streak-stats.demolab.com/?user=CRSanju&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CRSanju&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
