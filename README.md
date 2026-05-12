@@ -9,11 +9,10 @@
 
 ## 🌿 About Me
 
-I’m a Full Stack Developer focused on building scalable, real-world applications using Java Spring Boot, React, and Django. I enjoy turning ideas into functional products and continuously improving my skills in data structures, system design, and backend architecture. Currently, I’m working on Planora, a modern task manager, and Carvio, a food ordering platform inspired by real-world systems, while aiming to write clean, efficient, and maintainable code.
+I’m a Full Stack Developer passionate about building scalable and real-world applications using Java Spring Boot, React, Django, and modern web technologies. I enjoy developing clean and efficient backend systems, creating responsive and user-friendly frontend experiences, and turning ideas into functional products. Alongside full-stack development, I continuously improve my problem-solving skills through Data Structures & Algorithms while focusing on writing maintainable code and building production-level applications.
 
 ---
 
-* 🔭 Currently working on → **Planora** (React Task Manager) & **Carvio** (Django Food Ordering Platform)
 * 🤝 Open to collaborate on → **Full Stack Projects (React / Spring Boot / Django)**
 * 🧠 Exploring → **System Design & Scalable Backend Architecture**
 * 🌱 Continuously improving → **Problem Solving & Clean Code Practices**
