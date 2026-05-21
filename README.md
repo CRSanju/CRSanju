@@ -36,7 +36,7 @@ I’m a Full Stack Developer passionate about building scalable and real-world a
 
 ---
 
-### ✦ Carvio (Food Ordering Platform – Django)
+### ✦ Cravio (Food Ordering Platform – Django)
 
 * Backend-driven application inspired by Swiggy/Zomato
 * Designed for scalability and structured API development
