@@ -74,6 +74,9 @@ I’m a Full Stack Developer passionate about building scalable and real-world a
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/crsanju">
+    <img src="https://img.shields.io/badge/LinkedIn-CRSanju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/CRSanju">
     <img src="https://img.shields.io/badge/GitHub-CRSanju-black?style=for-the-badge&logo=github" />
   </a>
